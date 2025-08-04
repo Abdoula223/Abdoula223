@@ -1,15 +1,83 @@
-## Hi there 👋
-<h1 align="center">Bonjours👋Technicien Systèmes & Réseaux | Virtualisation & Cloud | Support IT IT Systems Administrator | Linux, Windows, VMware, Azure Spécialiste Support Informatique & Infrastructure | DevOps Enthusiast Administrateur Systèmes & Réseaux | Automatisation & Supervision IT Support & Infrastructure Technician | M2 Virtualisation & Cloud Abdoulaye Dillo</h1>
-<h3 align="center">Plus de 3 ans d'expérience dans le support IT, l’administration systèmes, la virtualisation et le cloud » « Technicien IT spécialisé en infrastructure, sécurité, virtualisation et automatisation » « Expert junior en systèmes & réseaux avec une approche DevOps et orientée service » « Gestionnaire d’infrastructure IT – de l’installation au support N3</h3>
+<h1 align="center">👋 Bonjour, je suis Abdoulaye Dillo</h1>
+<h3 align="center">Technicien Systèmes & Réseaux | Virtualisation & Cloud | Support IT</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdoulaye @agabdoulaye16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdoulaye @agabdoulaye16" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdoulaye-223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdoulaye-223" height="30" width="40" /></a>
-<a href="https://medium.com/medium.com/@agabdoulaye16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@agabdoulaye16" height="30" width="40" /></a>
+<p align="center">
+🎓 Étudiant en Master 2 Virtualisation & Cloud Computing  
+💼 3+ ans d'expérience en administration systèmes, réseaux, support IT, virtualisation (VMware, Proxmox) et Cloud (Azure, AWS)  
+🔧 Spécialiste junior en infrastructure IT, sécurité, supervision et automatisation  
+🚀 Enthousiaste DevOps & passionné par l’innovation numérique  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
--->
+### 💼 À propos de moi
+
+- 🔭 Je travaille actuellement sur des projets de virtualisation, de migration cloud et d'automatisation système.
+- 🌱 Je développe mes compétences sur Kubernetes, Terraform, CI/CD (GitLab, Jenkins) et Azure DevOps.
+- 🧠 Je suis passionné par la résolution de problèmes techniques et l'optimisation des infrastructures.
+- 📫 Contactez-moi à : **agabdoulaye16@gmail.com**
+- 📍 Basé à Dakar (Sénégal) | Ouvert aux opportunités à distance ou à l’international.
+
+---
+
+### 🛠️ Compétences techniques
+
+#### 🖥️ Infrastructure & Virtualisation
+- VMware ESXi / Proxmox / Hyper-V
+- Windows Server / Active Directory / GPO
+- Linux (Debian, Ubuntu, CentOS)
+- GLPI / OCS Inventory / Fog
+
+#### ☁️ Cloud & DevOps
+- Azure / AWS (EC2, S3, IAM)
+- CI/CD : GitLab CI, Jenkins
+- Docker / Vagrant / Ansible
+- Supervision : Grafana, Prometheus, Zabbix
+
+#### 💻 Réseaux & Sécurité
+- Configuration VLAN, DHCP, DNS
+- Cisco Packet Tracer / Wireshark
+- Pare-feux, ACL, Proxy, VPN
+
+#### 🔧 Scripting & Langages
+- Bash, PowerShell
+- SQL, YAML, Markdown
+- HTML / CSS (bases)
+
+---
+
+### 🔗 Me retrouver sur :
+
+<p align="left">
+  <a href="https://twitter.com/agabdoulaye16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://kaggle.com/abdoulaye-223" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@agabdoulaye16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGitHub&layout=compact" />
+</p>
+
+---
+
+### 📌 Citations favorites
+
+> "L'infrastructure la plus stable est celle qu’on oublie, car elle ne tombe jamais."  
+> "La virtualisation, c’est offrir plus avec moins — sans compromettre la sécurité ni la performance."
+
+---
+
+### 🚀 Projets à venir
+
+- 🔐 Déploiement d’un bastion de sécurité open-source (Wazuh, CrowdSec)
+- 🌐 Création d’un mini-cloud personnel avec Proxmox + Terraform + Ceph
+- 📦 Automatisation de déploiements via Ansible + GitOps
+
+---
+
+Souhaite-tu que je t’aide à intégrer ce fichier dans un dépôt GitHub, ou le transformer en portfolio personnel aussi ?
