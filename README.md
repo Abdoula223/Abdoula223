@@ -1,5 +1,5 @@
 <h1 align="center">👋 Bonjour, je suis Abdoulaye Dillo</h1>
-<h3 align="center">Technicien Systèmes & Réseaux | Virtualisation & Cloud | Support IT</h3>
+<h3 align="center">Systèmes & Réseaux | Virtualisation & Cloud | Support IT</h3>
 
 <p align="center">
 🎓  Master 2 Virtualisation & Cloud Computing  
