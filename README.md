@@ -2,7 +2,7 @@
 <h3 align="center">Technicien Systèmes & Réseaux | Virtualisation & Cloud | Support IT</h3>
 
 <p align="center">
-🎓 Étudiant en Master 2 Virtualisation & Cloud Computing  
+🎓  Master 2 Virtualisation & Cloud Computing  
 💼 3+ ans d'expérience en administration systèmes, réseaux, support IT, virtualisation (VMware, Proxmox) et Cloud (Azure, AWS)  
 🔧 Spécialiste junior en infrastructure IT, sécurité, supervision et automatisation  
 🚀 Enthousiaste DevOps & passionné par l’innovation numérique  
